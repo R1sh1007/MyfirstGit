@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906773524570",
+    "project_id": "greekchat-fd05b",
+    "storage_bucket": "greekchat-fd05b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906773524570:android:1f7587ff4f613d1ff26863",
+        "android_client_info": {
+          "package_name": "com.example.greekchap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906773524570-mfhu745vq6oeh9nmcf4q3m16jtg06241.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKg7nczPx6urmWhF6p-sC-F1LtB8Wt69c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906773524570-mfhu745vq6oeh9nmcf4q3m16jtg06241.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
